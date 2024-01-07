@@ -36,3 +36,6 @@ Welcome to the Data Fundamentals Nanodegree! Below is the course index with link
 
 ## 📋 Project Walkthrough
 - [Investigate a Dataset](docs/Session-13.pdf) 🔍
+
+## 🌐 Related Resources
+- [Additional Materials on Google Drive](https://drive.google.com/drive/folders/1V9LXJ6yd_rE9Jo-270qdZ5g4NdCl2tGW?usp=sharing) 📁
