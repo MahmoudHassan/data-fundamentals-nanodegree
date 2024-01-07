@@ -34,5 +34,5 @@ Welcome to the Data Fundamentals Nanodegree! Below is the course index with link
 ## 🔄 Data Analysis Process
 - [The Data Analysis Process, Programming Workflow for Data Analysis](docs/Session-12.pdf) 🛠️
 
-## 📋 Project Walkthroughs
+## 📋 Project Walkthrough
 - [Investigate a Dataset](docs/Session-13.pdf) 🔍
