@@ -1,4 +1,4 @@
-# 🎓 Makeen Nanodegree Program - Data Fundamentals Nanodegree
+# 🎓 Makeen Nanodegree Program - Data Analyst Essentials  Nanodegree
 
 Welcome to the Data Fundamentals Nanodegree! Below is the course index with links to the materials for each session. Happy learning! 📚🚀
 
